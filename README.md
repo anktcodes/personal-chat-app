@@ -64,5 +64,3 @@ If you run into any issues, check that:
 - You're using the correct password
 
 ---
-
-*Made with ❤️ for staying connected with friends*
